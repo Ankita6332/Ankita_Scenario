@@ -1,0 +1,10 @@
+build/
+.venv/
+*.egg
+*.egg-info
+*.idea
+*.pyc
+*.pyo
+*.xodr
+*.xosc
+.vscode
